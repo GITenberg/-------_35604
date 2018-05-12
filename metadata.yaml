@@ -1,0 +1,39 @@
+_repo: '-------_35604'
+_version: 0.1.0
+alternative_title: Phaedrus
+contributor:
+  translator:
+    agent_name: Gounaris, K.
+    alias: Γούναρης, Κ.
+    gutenberg_agent_id: '37779'
+    url: http://www.gutenberg.org/2009/agents/37779
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35604'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Lysias'
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcsh 'Rhetoric -- Early works to 1800'
+- !lcsh 'Soul -- Early works to 1800'
+- !lcsh 'Love -- Early works to 1800'
+title: Φαίδρος
+url: http://www.gutenberg.org/ebooks/35604
